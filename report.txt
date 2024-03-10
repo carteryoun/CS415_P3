@@ -1,0 +1,3 @@
+Report for P3:
+
+I am working on an M1 Mac, and reported issues on 5/23. I had been working on it for two days, and was facing issues connecting to the port (i.e., when running ./echoclient), after writing dtsv1.c and dtsv2.c.
